@@ -1,0 +1,71 @@
+body{
+    padding:10px;
+background-image: url(login.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-family:serif;
+}
+.login{
+    width:382px;
+    overflow:hidden;
+    margin:auto;
+    margin:200000f;
+    border-style: ridge;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px; 
+    border-radius: 20px;
+      border-width: 3PX;
+    border-color: #757474;
+}
+
+
+
+h2{
+    text-align:center;
+    color:#2775482;
+    padding:20px;
+}
+label{
+    color:#010110;
+    font-size:17px;
+}
+#uname{
+
+
+    border-radius:3px;
+    padding-left:8px;
+    height: 30px;
+    width:100%;
+
+}
+#log{
+    width:95%;
+    height:30px;
+    border:none;
+    border-radius:3px;
+    padding-left:7px;
+    color:rgb(215, 212, 231);
+    background-color: rgb(2, 40, 74);
+    
+}
+#boxs{border-color: #010110;
+border-bottom: 2px;
+border-top: 2px;
+border-left: 2px;
+border-right: 2px;
+border-style: inset;
+padding: 8px;
+ border-radius: 5px;
+ height: 20px;
+ width: 95%;
+}
+
+span{color:rgb(234, 11, 11);
+font-size17px;
+}
+a{
+    float:right;
+    background-color:grey;
+}
